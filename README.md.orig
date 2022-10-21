@@ -3,6 +3,8 @@ A repo for fork-and-clone workflow.
 My favorite ice-cream
   - Vanilla
 More changes to pull down.
+<<<<<<< HEAD
 More changes in the source.
 Some changes from Martin.
-More changes from Martin.
+=======
+>>>>>>> 50ebf1b6dd8b6ae44903dd4822e6275e78f4eb30
